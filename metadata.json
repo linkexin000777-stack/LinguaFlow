@@ -1,0 +1,7 @@
+{
+  "name": "LinguaFlow",
+  "description": "An immersive English learning app featuring blind listening, dictation, shadowing, and AI-powered analysis with a TikTok-inspired aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
